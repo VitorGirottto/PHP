@@ -26,10 +26,10 @@ A interface tem um fundo estrelado com animações, criando um ambiente moderno 
 Exemplo de telas:
 
 ### Tela inicial
-![Tela inicial](./image.png)
+![Tela inicial](./imagem.png)
 
 ### Página de assuntos
-![Assuntos](./image.png)
+![Assuntos](./imagem2.png)
 
 ## 🗺️ Navegação
 
